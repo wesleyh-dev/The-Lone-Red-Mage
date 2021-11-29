@@ -1,3 +1,3 @@
 # The-Lone-Red-Mage
 
-A native Windows adventure game that I designed and built as an Instructor at a video game development and engineering summer camp.
+A native Windows adventure game that I designed and developed as an Instructor at a video game development and engineering summer camp. Just download the executable and give it a try! It is somewhat difficult to say the least...
