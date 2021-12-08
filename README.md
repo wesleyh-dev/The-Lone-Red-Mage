@@ -1,6 +1,6 @@
 # The-Lone-Red-Mage
 
-A native Windows adventure game that I designed and developed as an Instructor at a video game development and engineering summer camp. Just download the executable and give it a try! It is somewhat difficult to say the least...
+A native Windows adventure game that I designed and developed as an Instructor at a video game development and engineering summer camp. Using Clickteam Fusion, you can publish your video game to a portable executable much like the typical means found through Steam and the like. Just download the executable and give it a try! It is somewhat difficult to say the least...
 
 
 ![redmageshot2](https://user-images.githubusercontent.com/66957683/143952155-f575374a-bcef-4427-9caf-6d5cc318c9a6.JPG)
